@@ -2,7 +2,7 @@
 
 ### The Algorithm
 
-I have implemented the DDPG (Deep Deterministic Policy Gradient) algorithm for solving the environment. [DDPG algorith description](https://arxiv.org/abs/1509.02971)
+I have implemented the DDPG (Deep Deterministic Policy Gradient) algorithm for solving the environment. [DDPG algorithm description.](https://arxiv.org/abs/1509.02971)
 
 ### The Parameters
 
