@@ -23,7 +23,7 @@ L2 weight decay:                        WEIGHT_DECAY = 0
 It was very hard to solve the environment. I trained the single agent version of the environment as well. The scores of the single agent version showed very large variance.
 In the case of the multi-agent version using batch normalization and larger batch size helped to stabilize the training and resulted in fast score increase.
 
-[scores](https://github.com/sinusgamma/DRL-Continous-Control/blob/master/result.jpg)
+![scores](https://github.com/sinusgamma/DRL-Continous-Control/blob/master/result.jpg)
 
 After the alterations the environment was solved after 138 episodes.
 
