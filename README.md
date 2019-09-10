@@ -16,7 +16,7 @@ The environment contains 20 identical agents, each with its own copy of the envi
 Solving the environment: The agents must get an average score of +30 (over 100 consecutive episodes, and over all agents). After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. We then take the average of these 20 scores.
 This yields an average score for each episode (where the average is over all 20 agents).
 
-## The Environment
+## Install the Environment
 
 ### Step 1: Clone the DRLND Repository
 To set up the environment, please follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies). These instructions can be found in [README.md]((https://github.com/udacity/deep-reinforcement-learning#dependencies)) at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
